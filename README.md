@@ -3,11 +3,11 @@
 > **Topics:** `voice-cloning` `xtts-v2` `rvc` `audio-processing` `speech-dataset` `silence-trimming` `lufs-normalization` `text-to-speech`
 
 
-[![Release](https://img.shields.io/badge/Release-v1.0.0-blue.svg)](https://github.com/MobileConduit/audio-dataset-cleaner/releases/tag/v1.0.0)
+[![Release](https://img.shields.io/badge/Release-v1.0.0-blue.svg)](https://github.com/shadialhasan/audio-dataset-cleaner/releases/tag/v1.0.0)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Python 3.9+](https://img.shields.io/badge/Python-3.9+-brightgreen.svg)](https://python.org)
-[![CI/CD Pipeline](https://github.com/MobileConduit/audio-dataset-cleaner/actions/workflows/ci.yml/badge.svg)](https://github.com/MobileConduit/audio-dataset-cleaner/actions)
-[![Domain: Speech AI](https://img.shields.io/badge/Domain-Voice%20Cloning%20%7C%20TTS-orange.svg)](https://github.com/MobileConduit)
+[![CI/CD Pipeline](https://github.com/shadialhasan/audio-dataset-cleaner/actions/workflows/ci.yml/badge.svg)](https://github.com/shadialhasan/audio-dataset-cleaner/actions)
+[![Domain: Speech AI](https://img.shields.io/badge/Domain-Voice%20Cloning%20%7C%20TTS-orange.svg)](https://github.com/shadialhasan)
 
 A production-grade Python CLI utility designed to automate the cleaning, silence trimming, peak normalization, and metadata generation for voice datasets targeting **Coqui XTTS-v2, RVC (Retrieval-based Voice Conversion), and VITS**.
 
@@ -52,7 +52,7 @@ flowchart TD
 ### 1. Installation
 
 ```bash
-git clone https://github.com/MobileConduit/audio-dataset-cleaner.git
+git clone https://github.com/shadialhasan/audio-dataset-cleaner.git
 cd audio-dataset-cleaner
 pip install -r requirements.txt
 ```
@@ -124,7 +124,7 @@ python -m unittest discover -s tests -v
 - **Email:** [mhd.shadi.alhasan@gmail.com](mailto:mhd.shadi.alhasan@gmail.com)  
 - **Phone / WhatsApp:** [+963934005922](tel:+963934005922)  
 - **Location:** Damascus, Syria  
-- **GitHub:** [MobileConduit](https://github.com/MobileConduit)  
+- **GitHub:** [shadialhasan](https://github.com/shadialhasan)  
 
 ---
 
