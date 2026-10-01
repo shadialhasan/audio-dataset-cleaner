@@ -1,5 +1,8 @@
 # 🎙️ audio-dataset-cleaner
 
+> **Topics:** `voice-cloning` `xtts-v2` `rvc` `audio-processing` `speech-dataset` `silence-trimming` `lufs-normalization` `text-to-speech`
+
+
 [![Release](https://img.shields.io/badge/Release-v1.0.0-blue.svg)](https://github.com/MobileConduit/audio-dataset-cleaner/releases/tag/v1.0.0)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Python 3.9+](https://img.shields.io/badge/Python-3.9+-brightgreen.svg)](https://python.org)

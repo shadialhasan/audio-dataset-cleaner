@@ -1,0 +1,13 @@
+{
+  "description": "Audio dataset cleaning, silence trimming, and LUFS normalization tool for XTTS-v2 and RVC voice cloning",
+  "topics": [
+    "voice-cloning",
+    "xtts-v2",
+    "rvc",
+    "audio-processing",
+    "speech-dataset",
+    "silence-trimming",
+    "lufs-normalization",
+    "text-to-speech"
+  ]
+}
