@@ -1,0 +1,10 @@
+{
+  "target_sr": 22050,
+  "silence_thresh_db": -40.0,
+  "min_duration": 1.0,
+  "max_duration": 12.0,
+  "input_dir": "raw_audio",
+  "output_dir": "dataset_clean",
+  "norm_peak_ratio": 0.9,
+  "window_size_ms": 20
+}
